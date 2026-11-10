@@ -1,0 +1,5 @@
+# Python 3.11
+numpy>=2.0          # np.trapezoid
+pandas
+matplotlib
+jupyter

@@ -1,0 +1,11 @@
+# Python 3.11
+torch>=2.5          # thesis results: PyTorch 2.10.0, MPS backend
+numpy
+pandas
+scikit-learn
+scipy
+scikit-image
+tifffile
+matplotlib
+jupyter
+cellpose==4.0.8     # only for 00_cellpose_crops
